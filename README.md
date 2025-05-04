@@ -70,8 +70,10 @@ pip install -r requirements.txt
 
 ### 3. Train and Debias
 
+This command, with this version fo the codebase, runs the "extension" aspect of the paper reproduction, i.e. selecting only even-numbered layers for pruning. To run the original publication code and use the original configurations, refer to the [original authors' GitHub](https://github.com/i6092467/diff-bias-proxies).
+
 ```bash
-python main_ChestXRay.py --config configs/mimic_cxr_ethnicity.yml
+python main_ChestXRay.py --config configs/mimic_cxr_ethnicity_modified.yml
 ```
 
 ## 📹 Video Walkthrough
@@ -81,7 +83,7 @@ python main_ChestXRay.py --config configs/mimic_cxr_ethnicity.yml
 
 ## 🤝 Authors
 
-- **Jonathan T. Bui** – jtbui2@illinois.edu  
+- **Jonathan T. Bui** – jtbui3@illinois.edu  
 - **Karan Thapar** – kthapar2@illinois.edu
 
 ```
