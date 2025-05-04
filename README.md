@@ -84,24 +84,10 @@ python analyze_results.py
 
 👉 [TODO: Insert link here]
 
-## 📎 Report
-
-The full writeup is included in [`Final Report.pdf`](link) and follows the CS598 DLH rubric.
 
 ## 🤝 Authors
 
 - **Jonathan T. Bui** – jtbui2@illinois.edu  
 - **Karan Thapar** – kthapar2@illinois.edu
 
-## 📄 Citation
-
-If you use this repo or ideas in your own work, please cite:
-
-```
-@inproceedings{marcinkevics2022debiasing,
-  title={Debiasing Deep Chest X-Ray Classifiers Using Intra- and Post-processing Methods},
-  author={Marcinkevics, Rihards and Ozkan, Ege and Vogt, Julia E},
-  booktitle={Machine Learning for Healthcare Conference},
-  year={2022}
-}
 ```
