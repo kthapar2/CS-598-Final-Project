@@ -74,12 +74,6 @@ pip install -r requirements.txt
 python main_ChestXRay.py --config configs/mimic_cxr_ethnicity.yml
 ```
 
-### 4. Analyze Results
-
-```bash
-python analyze_results.py
-```
-
 ## 📹 Video Walkthrough
 
 👉 [TODO: Insert link here]
