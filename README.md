@@ -78,7 +78,7 @@ python main_ChestXRay.py --config configs/mimic_cxr_ethnicity_modified.yml
 
 ## 📹 Video Walkthrough
 
-👉 [TODO: Insert link here]
+👉 https://mediaspace.illinois.edu/media/t/1_mwp94b0i
 
 
 ## 🤝 Authors
